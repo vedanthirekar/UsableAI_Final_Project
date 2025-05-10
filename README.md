@@ -37,6 +37,8 @@ Dataset Link - https://www.kaggle.com/datasets/ryanluong1/valorant-champion-tour
 
 ## How to Run
 
+You can first download all the reqirements/libraries using the command `pip install -r requirements.txt` to execute the script.
+
 We have directly referenced the data from the Kaggle API so the notebooks can be directly run to replicate the data cleaning, visualizations, and model training.
 
 ## Tools Used
